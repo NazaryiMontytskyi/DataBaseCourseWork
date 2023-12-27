@@ -38,7 +38,6 @@ BEGIN
 END;
 $$ LANGUAGE plpgsql;
 
-DROP FUNCTION queryOfStaffDepartment(department INTEGER);
 SELECT * FROM queryOfStaffDepartment(1);
 
 
@@ -250,7 +249,6 @@ BEGIN
 END;
 $$;
 
-DROP PROCEDURE findStudent(f_secondName VARCHAR(50), f_firstName VARCHAR(50), f_patronymic VARCHAR(50));
 CALL findStudent('Henstone','Henry','Sobtka');
 
 
