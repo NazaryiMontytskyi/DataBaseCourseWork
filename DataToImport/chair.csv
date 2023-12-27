@@ -1,0 +1,100 @@
+1,Computer Science Department,+380501234567,cs@kpi.ua,http://cs.edu.kpi.ua,1
+2,Information Technology Department,+380502345678,it@kpi.ua,http://it.edu.kpi.ua,1
+3,Electronics Department,+380503456789,electronics@kpi.ua,http://electronics.edu.kpi.ua,1
+4,Mathematics Department,+380504567890,math@kpi.ua,http://math.edu.kpi.ua,2
+5,Physics Department,+380505678901,physics@kpi.ua,http://physics.edu.kpi.ua,2
+6,Chemistry Department,+380506789012,chemistry@kpi.ua,http://chemistry.edu.kpi.ua,2
+7,Biology Department,+380507890123,biology@kpi.ua,http://biology.edu.kpi.ua,3
+8,History Department,+380508901234,history@kpi.ua,http://history.edu.kpi.ua,3
+9,Geography Department,+380509012345,geography@kpi.ua,http://geography.edu.kpi.ua,3
+10,Literature Department,+380510123456,lit@kpi.ua,http://lit.edu.kpi.ua,4
+11,Art Department,+380511234567,art@kpi.ua,http://art.edu.kpi.ua,4
+12,Music Department,+380512345678,music@kpi.ua,http://music.edu.kpi.ua,4
+13,Engineering Department,+380513456789,eng@kpi.ua,http://eng.edu.kpi.ua,5
+14,Architecture Department,+380514567890,arch@kpi.ua,http://arch.edu.kpi.ua,5
+15,Economics Department,+380515678901,econ@kpi.ua,http://econ.edu.kpi.ua,5
+16,Business Department,+380516789012,business@kpi.ua,http://business.edu.kpi.ua,6
+17,Management Department,+380517890123,management@kpi.ua,http://management.edu.kpi.ua,6
+18,Marketing Department,+380518901234,marketing@kpi.ua,http://marketing.edu.kpi.ua,6
+19,Psychology Department,+380519012345,psychology@kpi.ua,http://psychology.edu.kpi.ua,7
+20,Sociology Department,+380520123456,sociology@kpi.ua,http://sociology.edu.kpi.ua,7
+21,Anthropology Department,+380521234567,anthro@kpi.ua,http://anthro.edu.kpi.ua,7
+22,Philosophy Department,+380522345678,philosophy@kpi.ua,http://philosophy.edu.kpi.ua,8
+23,Religious Studies Department,+380523456789,religion@kpi.ua,http://religion.edu.kpi.ua,8
+24,Linguistics Department,+380524567890,linguistics@kpi.ua,http://linguistics.edu.kpi.ua,8
+25,Law Department,+380525678901,law@kpi.ua,http://law.edu.kpi.ua,9
+26,Political Science Department,+380526789012,politics@kpi.ua,http://politics.edu.kpi.ua,9
+27,Social Work Department,+380527890123,socialwork@kpi.ua,http://socialwork.edu.kpi.ua,9
+28,Medicine Department,+380528901234,medicine@kpi.ua,http://medicine.edu.kpi.ua,10
+29,Nursing Department,+380529012345,nursing@kpi.ua,http://nursing.edu.kpi.ua,10
+30,Dentistry Department,+380530123456,dentistry@kpi.ua,http://dentistry.edu.kpi.ua,10
+31,Physical Therapy Department,+380531234567,pt@kpi.ua,http://pt.edu.kpi.ua,11
+32,Occupational Therapy Department,+380532345678,ot@kpi.ua,http://ot.edu.kpi.ua,11
+33,Environmental Science Department,+380533456789,enviro@kpi.ua,http://enviro.edu.kpi.ua,11
+34,Astronomy Department,+380534567890,astro@kpi.ua,http://astro.edu.kpi.ua,12
+35,Robotics Department,+380535678901,robotics@kpi.ua,http://robotics.edu.kpi.ua,12
+36,Geology Department,+380536789012,geology@kpi.ua,http://geology.edu.kpi.ua,12
+37,Journalism Department,+380537890123,journalism@kpi.ua,http://journalism.edu.kpi.ua,13
+38,Communication Department,+380538901234,comm@kpi.ua,http://comm.edu.kpi.ua,13
+39,Film Studies Department,+380539012345,film@kpi.ua,http://film.edu.kpi.ua,13
+40,Chemical Engineering Department,+380540123456,chemeng@kpi.ua,http://chemeng.edu.kpi.ua,14
+41,Civil Engineering Department,+380541234567,civileng@kpi.ua,http://civileng.edu.kpi.ua,14
+42,Electrical Engineering Department,+380542345678,eleng@kpi.ua,http://eleng.edu.kpi.ua,14
+43,Mechanical Engineering Department,+380543456789,mecheng@kpi.ua,http://mecheng.edu.kpi.ua,15
+44,Industrial Engineering Department,+380544567890,indeng@kpi.ua,http://indeng.edu.kpi.ua,15
+45,Biomedical Engineering Department,+380545678901,biomed@kpi.ua,http://biomed.edu.kpi.ua,15
+46,Forestry Department,+380546789012,forestry@kpi.ua,http://forestry.edu.kpi.ua,16
+47,Environmental Engineering Department,+380547890123,enveng@kpi.ua,http://enveng.edu.kpi.ua,16
+48,Marine Biology Department,+380548901234,marinebio@kpi.ua,http://marinebio.edu.kpi.ua,16
+49,Fashion Design Department,+380549012345,fashion@kpi.ua,http://fashion.edu.kpi.ua,17
+50,Graphic Design Department,+380550123456,graphic@kpi.ua,http://graphic.edu.kpi.ua,17
+51,Interior Design Department,+380551234567,interior@kpi.ua,http://interior.edu.kpi.ua,17
+52,Statistics Department,+380552345678,stats@kpi.ua,http://stats.edu.kpi.ua,18
+53,Actuarial Science Department,+380553456789,actuarial@kpi.ua,http://actuarial.edu.kpi.ua,18
+54,Econometrics Department,+380554567890,econometrics@kpi.ua,http://econometrics.edu.kpi.ua,18
+55,Optics Department,+380555678901,optics@kpi.ua,http://optics.edu.kpi.ua,19
+56,Materials Science Department,+380556789012,materials@kpi.ua,http://materials.edu.kpi.ua,19
+57,Nanotechnology Department,+380557890123,nano@kpi.ua,http://nano.edu.kpi.ua,19
+58,Humanities Department,+380558901234,humanities@kpi.ua,http://humanities.edu.kpi.ua,20
+59,Classics Department,+380559012345,classics@kpi.ua,http://classics.edu.kpi.ua,20
+60,World Languages Department,+380560123456,lang@kpi.ua,http://lang.edu.kpi.ua,20
+61,Philology Department,+380561234567,philology@kpi.ua,http://philology.edu.kpi.ua,21
+62,Comparative Literature Department,+380562345678,comp_lit@kpi.ua,http://comp_lit.edu.kpi.ua,21
+63,Translation Studies Department,+380563456789,translate@kpi.ua,http://translate.edu.kpi.ua,21
+64,Computer Engineering Department,+380564567890,compeng@kpi.ua,http://compeng.edu.kpi.ua,22
+65,Software Engineering Department,+380565678901,softeng@kpi.ua,http://softeng.edu.kpi.ua,22
+66,Network Engineering Department,+380566789012,neteng@kpi.ua,http://neteng.edu.kpi.ua,22
+67,Public Health Department,+380567890123,publichealth@kpi.ua,http://publichealth.edu.kpi.ua,23
+68,Nutrition Department,+380568901234,nutrition@kpi.ua,http://nutrition.edu.kpi.ua,23
+69,Exercise Science Department,+380569012345,exerscience@kpi.ua,http://exerscience.edu.kpi.ua,23
+70,Agricultural Science Department,+380570123456,agriculture@kpi.ua,http://agriculture.edu.kpi.ua,24
+71,Animal Science Department,+380571234567,animalscience@kpi.ua,http://animalscience.edu.kpi.ua,24
+72,Plant Science Department,+380572345678,plantscience@kpi.ua,http://plantscience.edu.kpi.ua,24
+73,Fine Arts Department,+380573456789,finearts@kpi.ua,http://finearts.edu.kpi.ua,25
+74,Drama Department,+380574567890,drama@kpi.ua,http://drama.edu.kpi.ua,25
+75,Dance Department,+380575678901,dance@kpi.ua,http://dance.edu.kpi.ua,25
+76,Architecture and Planning Department,+380576789012,archplan@kpi.ua,http://archplan.edu.kpi.ua,26
+77,Geography and Urban Planning Department,+380577890123,geourban@kpi.ua,http://geourban.edu.kpi.ua,26
+78,Environmental Planning Department,+380578901234,envplan@kpi.ua,http://envplan.edu.kpi.ua,26
+79,Library Science Department,+380579012345,library@kpi.ua,http://library.edu.kpi.ua,27
+80,Information Science Department,+380580123456,infosci@kpi.ua,http://infosci.edu.kpi.ua,27
+81,Media Studies Department,+380581234567,media@kpi.ua,http://media.edu.kpi.ua,27
+82,Education Department,+380582345678,education@kpi.ua,http://education.edu.kpi.ua,28
+83,Special Education Department,+380583456789,specialed@kpi.ua,http://specialed.edu.kpi.ua,28
+84,Early Childhood Education Department,+380584567890,earlychild@kpi.ua,http://earlychild.edu.kpi.ua,28
+85,Physical Education Department,+380585678901,physed@kpi.ua,http://physed.edu.kpi.ua,29
+86,Recreation Department,+380586789012,recreation@kpi.ua,http://recreation.edu.kpi.ua,29
+87,Sports Management Department,+380587890123,sportsmgmt@kpi.ua,http://sportsmgmt.edu.kpi.ua,29
+88,Religious Studies and Theology Department,+380588901234,religstheo@kpi.ua,http://religstheo.edu.kpi.ua,30
+89,Missions and Evangelism Department,+380589012345,missions@kpi.ua,http://missions.edu.kpi.ua,30
+90,Christian Counseling Department,+380590123456,chriscounsel@kpi.ua,http://chriscounsel.edu.kpi.ua,30
+91,Health Sciences Department,+380591234567,healthsci@kpi.ua,http://healthsci.edu.kpi.ua,31
+92,Medical Technology Department,+380592345678,medtech@kpi.ua,http://medtech.edu.kpi.ua,31
+93,Radiologic Technology Department,+380593456789,radiotech@kpi.ua,http://radiotech.edu.kpi.ua,31
+94,Political Affairs Department,+380594567890,politicsintrel@kpi.ua,http://politicsintrel.edu.kpi.ua,32
+95,Global Studies Department,+380595678901,globalstudies@kpi.ua,http://globalstudies.edu.kpi.ua,32
+96,Diplomacy and Foreign Affairs Department,+380596789012,diplomacy@kpi.ua,http://diplomacy.edu.kpi.ua,32
+97,Culinary Arts Department,+380597890123,culinary@kpi.ua,http://culinary.edu.kpi.ua,16
+98,Hospitality Management Department,+380598901234,hospitality@kpi.ua,http://hospitality.edu.kpi.ua,17
+99,Tourism Management Department,+380599012345,tourism@kpi.ua,http://tourism.edu.kpi.ua,18
+100,Liberal Arts Department,+380600123456,liberalarts@kpi.ua,http://liberalarts.edu.kpi.ua,25
