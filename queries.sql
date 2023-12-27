@@ -61,7 +61,7 @@ WHERE Teacher.id = 55 AND
 AND EXTRACT(YEAR FROM "Control".dateOfControl) = 2023 AND EXTRACT(MONTH FROM "Control".dateOfControl) = 3;
 
 
-----###ЗАПИТ №5### (з підзапитом)----
+----###ЗАПИТ №5###----
 ---Відобразити дисципліну з найбільшою кількістю студентів, які склали по ній осінній
 ---календарний контроль 2022 року.
 WITH CalendarControl2022 AS(
@@ -152,7 +152,6 @@ AND EXTRACT(YEAR FROM CURRENT_DATE) - EXTRACT(YEAR FROM Teacher.beginningworking
 ----оцінки по дисципліні, то відобразити у комірці "Додаткова сесія", а якщо задовільна,
 ----то відобразити "Основна сесія"
 ----В якості групи візьмемо групу з id 125
-----В якості дисципліни візьмемо
 SELECT Student.firstname || ' ' || Student.secondname AS "Student",
 Subject.name AS "Subject",
 Mark.score AS "Mark",
